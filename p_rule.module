@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,mtgglobals.com,REJECT
 DOMAIN-SUFFIX,inner-active.mobi,REJECT
 DOMAIN-SUFFIX,inhousedsp.com,REJECT
 DOMAIN-SUFFIX,rubiconproject.com,REJECT
+DOMAIN-SUFFIX,ybp.yahoo.com,REJECT
