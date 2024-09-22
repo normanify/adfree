@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,ads.vungle.com,REJECT
 DOMAIN-SUFFIX,tpbid.com,REJECT
 DOMAIN-SUFFIX,tk0x1.com,REJECT
 DOMAIN-SUFFIX,videoamp.com,REJECT
+DOMAIN-SUFFIX,ingest.sentry.io,REJECT
 
 #tunein
 DOMAIN-SUFFIX,adswizz.com,REJECT
