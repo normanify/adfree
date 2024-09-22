@@ -1,0 +1,11 @@
+#!name=Personal
+#!desc=自用规则
+[rules]
+
+DOMAIN-KEYWORD,redd,PROXY
+DOMAIN-SUFFIX,line-apps.com,PROXY
+DOMAIN-SUFFIX,line.me,PROXY
+DOMAIN-SUFFIX,line.naver.jp,PROXY
+DOMAIN-SUFFIX,cloudfront.net,PROXY
+DOMAIN-SUFFIX,tunein.com,PROXY
+DOMAIN-SUFFIX,radiotime.com,PROXY
