@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,ybp.yahoo.com,REJECT
 DOMAIN-SUFFIX,applvn.com,REJECT
 DOMAIN-SUFFIX,appier.net,REJECT
 DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
+DOMAIN-SUFFIX,ads.vungle.com,REJECT
+DOMAIN-SUFFIX,tpbid.com,REJECT
