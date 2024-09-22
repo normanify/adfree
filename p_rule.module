@@ -14,5 +14,8 @@ DOMAIN-SUFFIX,githubusercontent.com,PROXY
 
 #musi
 DOMAIN-SUFFIX,supersonicads.com,REJECT
-
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
+DOMAIN-SUFFIX,iads.unity3d.com,REJECT
+DOMAIN-SUFFIX,appsflyer.com,REJECT
+DOMAIN-SUFFIX,mtgglobals.com,REJECT
+DOMAIN-SUFFIX,inner-active.mobi,REJECT
