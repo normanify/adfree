@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,radiotime.com,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 
+#musi
+DOMAIN-SUFFIX,supersonicads.com,REJECT
+
+DOMAIN-SUFFIX,app-analytics-services.com,REJECT
