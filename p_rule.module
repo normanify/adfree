@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,tpbid.com,REJECT
 DOMAIN-SUFFIX,tk0x1.com,REJECT
 DOMAIN-SUFFIX,videoamp.com,REJECT
 DOMAIN-SUFFIX,ingest.sentry.io,REJECT
+DOMAIN-SUFFIX,unityads.unitychina.cn,REJECT
 
 #tunein
 DOMAIN-SUFFIX,adswizz.com,REJECT
