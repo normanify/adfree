@@ -35,3 +35,5 @@ DOMAIN-SUFFIX,unityads.unitychina.cn,REJECT
 
 #tunein
 DOMAIN-SUFFIX,adswizz.com,REJECT
+DOMAIN-SUFFIX,prod-pre.fns.tunein.com,REJECT
+DOMAIN-SUFFIX,chunks.tunein.com,REJECT
