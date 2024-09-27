@@ -1,8 +1,11 @@
 #!name=Personal
 #!desc=自用规则
 [rules]
+#openai
+DOMAIN-SUFFIX,oaistatic.com,PROXY
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
 
-DOMAIN-KEYWORD,redd,PROXY
+DOMAIN-KEYWORD, redd,PROXY
 DOMAIN-SUFFIX,line-apps.com,PROXY
 DOMAIN-SUFFIX,line.me,PROXY
 DOMAIN-SUFFIX,line.naver.jp,PROXY
