@@ -4,6 +4,11 @@
 #openai
 DOMAIN-SUFFIX,oaistatic.com,PROXY
 DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,auth0.com,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
+DOMAIN-SUFFIX,live.com,PROXY
+
 
 DOMAIN-KEYWORD, redd,PROXY
 DOMAIN-SUFFIX,line-apps.com,PROXY
